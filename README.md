@@ -1,6 +1,6 @@
 Olá, Meu nome é Ivan mas pode me chamar de Douva 👋
 
-🔭 Quero entrar na area de tecnlogia e programação.<br/>  ![gif](https://github.com/Douvak/Douvak/assets/152095855/411654ca-3014-4e05-9e86-a06f19a9acef)
+🔭 Quero entrar na area de tecnologia e programação.<br/>  ![gif](https://github.com/Douvak/Douvak/assets/152095855/411654ca-3014-4e05-9e86-a06f19a9acef)
 
 
 🌱 Estou Aprendendo: <br/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> 

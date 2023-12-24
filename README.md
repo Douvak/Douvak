@@ -15,3 +15,6 @@ Olá, Meu nome é Ivan mas pode me chamar de Douva 👋
 </div>
 
 
+
+![Snake animation](https://github.com/Douvak/Douvak/blob/output/github-contribution-grid-snake.svg)
+

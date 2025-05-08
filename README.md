@@ -1,31 +1,48 @@
-Olá, Meu nome é Ivan mas pode me chamar de Douva 👋
-
-🔭 Quero entrar na area de tecnologia e programação.<br/>  ![gif](https://github.com/Douvak/Douvak/assets/152095855/411654ca-3014-4e05-9e86-a06f19a9acef)
 
 
-📚 Estou Aprendendo:
-👨‍💻 Tecnologias Aprendidas:
-<br/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-          
-
-📫 Contatos:
-<div> 
-            <a><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          </a>
-            <a><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          </a>
-</div>
-
-<div>
-            <a>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-          </a>
-            <a href="https://www.instagram.com/ivanmvicente?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-            <a href="https://www.linkedin.com/in/ivan-vicente-a5924a215/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-            </div>
+# Olá, eu sou o Ivan 👋
 
 
 
-![Snake animation](https://github.com/Douvak/Douvak/blob/output/github-contribution-grid-snake.svg)
+## 🔍 Sobre mim
+Sou estudante de programação, apaixonado por aprender novas tecnologias e criar soluções inovadoras. Estou em constante aprendizado e buscando sempre evoluir como desenvolvedor.
 
+## 📖 Tecnologias que estou usando atualmente:
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+
+
+📚 ## O que eu já estudei:
+
+### 💻 Frontend
+
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
+### 🔙 Backend
+
+- ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+### 🗄️ DBA (Banco de Dados)
+
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 🛠️ Versionamento
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+### 🧑‍💻 Sistema Operacional
+
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+## 📍 Contatos
+
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com)
+- Email: ivan.vicente.dev@gmail.com

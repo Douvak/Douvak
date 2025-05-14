@@ -44,5 +44,6 @@ Sou estudante de programação, apaixonado por aprender novas tecnologias e cria
 
 ## 📍 Contatos
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivanmvicente/)
 - Email: ivan.vicente.dev@gmail.com
+- Alura : [Certificados](https://cursos.alura.com.br/user/ivanvicente/fullCertificate/bb30cef66c0a6bc6913356c795f1d952)
